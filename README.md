@@ -14,12 +14,11 @@ Ok id public cloner
 - pip install rich 
 - pip install machines
 - cd $HOME
-- rm -rf greenPublic
-- git clone https://github.com/HCRWORLD/easily
-- cd easily
-- python EASY.py
+- rm -rf fuck-spy
+- git clone https://github.com/CYBER-OWAIS/fuck-spy.git
+- cd fuck-spy
+- python Fuck-SpY.py
 
 # Note 
 
-- this tools is paid
-- you must buy this tools before use ✌️
+bypass
